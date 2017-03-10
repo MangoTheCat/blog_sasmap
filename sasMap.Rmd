@@ -74,10 +74,10 @@ library(shiny)
 runApp(system.file('shiny', package='sasMap'))
 ```
 
-Once the "I want to specify a local directory (Warning: It only works when running the shiny app from a local machine)." box is ticked, exposed is a "Choose directory" button which makes it straightfoward to direct to your SAS folder (thanks to the **shinyFiles** package). You can also view a demo version of the app here. For demo's purpose, the deployed version has the dummy SAS code hard-coded.
+Once the "I want to specify a local directory (Warning: It only works when running the shiny app from a local machine)." box is ticked, exposed is a "Choose directory" button which makes it straightforward to direct to your SAS folder (thanks to the **shinyFiles** package). You can also view a demo version of the app [here](https://mangothecat.shinyapps.io/sasmap/). For demo's purpose, the deployed version has the dummy SAS code hard-coded.
 
 ## Conclusion
-At Mango we have benefited greatly from this way of working with SAS ocde. If you want to know more about the **sasMap** package or about SAS to R migration feel free to contact us by phone (+44 (0)1249 705 450) or mail (sales@mango-solutions.com). The code for this post is available on [github](https://github.com/MangoTheCat/blog_sasmap) as is the code for the [package](https://github.com/MangoTheCat/sasMap).
+At Mango we have benefited greatly from this way of working with SAS code (see this [blogpost](http://www.mango-solutions.com/wp/2017/03/goodbye-sas-hello-r-why-you-need-to-make-the-switch-and-how-mango-can-help/) for more information). If you want to know more about the **sasMap** package or about SAS to R migration feel free to contact us by phone (+44 (0)1249 705 450) or mail (sales@mango-solutions.com). The code for this post is available on [github](https://github.com/MangoTheCat/blog_sasmap) as is the code for the [package](https://github.com/MangoTheCat/sasMap).
 
 
 
